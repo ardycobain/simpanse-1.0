@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Fix deployment structure"
+# Buat repo kosong di github.com, lalu:
+git remote add origin https://github.com/USERNAME/NAMA_REPO.git
+git push -u origin main
